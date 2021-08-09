@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.SellFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/board_sel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/board_sel"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/sale_fuga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/button_sale_fuga"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/sale_set1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/button_sale_set1"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/sale_sale2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/button_sale_set2"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/promo_fuga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/promo_fuga"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/promo_przypal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/promo_przypal"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/promo_plesn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/promo_plesn"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/promo_wc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/promo_wc"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/promo_podloga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/promo_podloga"
+            android:contentDescription="@string/top_fragment_image"/>
+
+        <ImageView
+            android:id="@+id/promo_meble"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/promo_meble"
+            android:contentDescription="@string/top_fragment_image"/>
+
+    </LinearLayout>
+
+
+
+</android.support.v4.widget.NestedScrollView>

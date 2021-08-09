@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">PaniDomu</string>
+    <string name="icon_toolbar_contact">Kontakt</string>
+    <string name="fab_massage_text">Zadzwoń do nas!</string>
+    <string name="snack_text">Zobacz numer</string>
+    <string name="snack_bar_message">506950567</string>
+    <string name="mesege_text">Zadzwoń do nas!!</string>
+    <string name="description_contact_image">Kontakt</string>
+    <string name="contact_main">Informacja o sklepie</string>
+    <string name="contact_address">Laboratorium Pani Domu Sp. z o.o.\nAl. Jana Pawła II 27\n00-867 Warszawa\nAdres do korespondencji/zwrotów: Laboratorium\nPani Domu Sp. z o.o. , ul. Św. Jacka Odrowąża 15,\n03-310 Warszawa\nPoland</string>
+    <string name="contact_fax">Faks: NIP: 5272785354</string>
+    <string name="contact_mail">Napisz do nas: kontakt@laboratoriumpanidomu.pl</string>
+    <string name="contact_address_shop">Atrium Reduta (Poziom -1) al. Jerozolimskie 148 02-326 Warszawa Poland</string>
+    <string name="contact_shop_name">Skep\nLaboratorium Pani Domu</string>
+
+    <!--    BUTTONS-->
+    <string name="height_button_top_fragment">120dp</string>
+    <string name="width_button_top_fragment">223dp</string>
+    <string name="button_top_d_lux">D-LUX</string>
+    <string name="button_top_sets">Zestawy</string>
+    <string name="button_top_washing">Pranie</string>
+    <string name="button_top_cleaning">Sprzątanie</string>
+    <string name="button_top_washM">Zmywarka</string>
+
+
+    <!--    ACTIVITY NAMES-->
+    <string name="best_worker_name_acrivity">Pracownik miesiąca</string>
+
+    <!--    FRAGMENT NAMES-->
+    <string name="fragment_top">Główna</string>
+    <string name="fragment_dlux">D-LUX</string>
+    <string name="fragment_set">Zestawy</string>
+    <string name="fragment_sell">Promo</string>
+    <string name="top_fragment_image">Top image</string>
+
+    <!--    TOOLBAR ITEMS-->
+    <string name="tb_best_worker">Pracownik miesiąca</string>
+    <string name="tb_action_share">Share</string>
+
+    <!--    PRODUCT NAME-->
+
+    <string name="pn_fuga"></string>
+
+
+    <!--    DESCRIPTION-->
+    <string name="d_sp_laz_rdza">D-LUX Kamień i rdza to płyn przeznaczony do mycia ceramiki sanitarnej. Jest to wodny roztwór kwasu nieorganicznego, substancji powierzchniowo-czynnej i wspomagających oraz kompozycji zapachowej. Odpowiednie połączenie składników zapewnia skuteczne mycie urządzeń sanitarnych, ale też pomoc w neutralizacji nieprzyjemnych zapachów. Z jego pomocą w kilka chwil usuniesz wapno, kamień urynowy i wodny, rdzę, ale też stare zaprawy murarskie.</string>
+    <string name="d_sp_laz_plesn">D-LUX płyn do pleśni to rozwiązanie, które pozwala skutecznie usunąć zabrudzenia pochodzenia pleśniowego, zarówno z powierzchni ścian, jak i podłóg. Wyróżniają go silne właściwości zmywające, dzięki czemu doskonale usuwa ślady pleśni na ścianach, podłogach, ale też te znajdujące się w trudno dostępnych miejscach, jak szczeliny i fugi. Nie tylko usuwa ślady zabrudzeń w postaci grzybów, glonów i mchów, ale też skutecznie eliminuje nieprzyjemne zapachy.</string>
+    <string name="d_sp_laz_fuga">D-LUX płyn do czyszczenia fug to skoncentrowany środek, który usuwa nawet trudne zabrudzenia. Ponadto, zabija bakterie i zarazki, które przez lata gromadziły się w szczelinach. Jest to rozwiązanie polecane rodzinom z dziećmi, ale też właścicielom zwierząt domowych.</string>
+    <string name="d_sp_laz_wc">D-LUX WC-CHLORATOS to substancja czyszcząca, która dokładnie usuwa zanieczyszczenia z toalet niewidoczne dla oczu. Przeznaczony głównie do czyszczenia sanitariatów, jednak sprawdzi się także w zabrudzeniach umywalki, wanny czy prysznicu, powstałych w wyniku kapiącej wody. </string>
+    <string name="d_sp_pod_cytrus">D-LUX Podłogi nabłyszczający płyn do mycia podłóg to innowacyjny środek o działaniu myjąco-nabłyszczającym. Do jego podstawowych składników czyszczących dodano rozpuszczalne w wodzie polimery, które odpowiadają za nadanie powierzchni delikatnego połysku. Koncentrat pokrywa czyszczoną podłogę transparentną, cienką powłoką polimerową, dzięki której brud nie wnika i nie przylega do niezabezpieczonej powierzchni, a to z kolei ułatwia utrzymanie jej w czystości. Co ważne – pomimo błyszczącej powłoki, podłoga nie jest śliska, a przy tym niebezpieczna. Zaznaczamy, że przy kolejnym myciu, bez zastosowania środka powłoka się zmywa.</string>
+    <string name="d_sp_kuh_przypalenia">Płyn D-LUX Przypalenia przeznaczony jest do czyszczenia silnie zatłuszczonych i przypalonych garnków, patelni, grilli, szyb kominkowych, pieców konwekcyjno-parowych i innych urządzeń kuchennych. Zawiera inhibitory korozji, ulega biodegradacji. Po użyciu powierzchnia pozostaje czysta i błyszcząca. Produkt należy stosować bez rozcieńczenia.</string>
+    <string name="d_sp_kuh_meble">D-LUX Meble jest gotowym do użycia produktem profesjonalnym, przeznaczonym do mycia wszystkich zmywalnych powierzchni takich jak np.: szkło, konglomerat, meble z tworzyw sztucznych i naturalnych, powierzchnie metalowe i lakierowane. Czyści dokładnie i nie pozostawia smug. Nadaje powierzchni idealny połysk i pozostawia przyjemny zapach.</string>
+    <string name="d_sp_kuh_papier">Wysokiej jakości 2-warstwowy ręcznik kuchenny, który jest bardzo chłonny i wytrzymały. Nie przepuszcza tłuszczu. Niezastąpiony w każdym domu i nie tylko. Wyprodukowany w 100% z celulozy. Nie pozostawia pyłku.</string>
+    <string name="set_niezbedny_meb">Ten pakiet zawiera\nChameloo 1L Spray Degreaser - odtłuszczacz x 1\nD-LUX WC-CHLORATOS 1l x 1\nD-LUX Meble 500 ml x 1\nD-LUX Podłogi bez smug - Płyn do mycia podłóg 1L Zapach-Citrus x 1\nAntikal Kalkreniger Classic - Spray do łazienki 700 ml x 1</string>
+    <string name="pr_vizir">Uniwersalny proszek Vizir doskonale nadaje się do prania białych i kolorowych ubrań, zapewniając białym tkaninom śnieżną biel, a kolorowym intensywność koloru. Vizir bardzo skutecznie usuwa trudne plamy i zabrudzenia. Zakres temperatur 20-95 stopni.</string>
+    <string name="pr_gg_antikal">Żel doskonale usuwa kamień powstały na grzałkach, bębnach i innych częściach narażonych na kontakt z wodą, zmiękcza wodę i zapobiega odkładaniu się szkodliwych dla pralki oraz tkanin osadów. Wygodny w stosowaniu.</string>
+    <string name="pr_oxi">Uniwersalny odplamiacz z aktywnym tlenem w postaci proszku. Usuwa nawet zaschnięte plamy. Poradzi sobie z plamami z wina, trawy, krwi, kawy, itp. Skuteczny nawet w niskich temperaturach. Formuła non-bio przyjazna dla skóry.</string>
+
+
+    <string name="action_share">action</string>
+    <string name="action_worker">best worker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

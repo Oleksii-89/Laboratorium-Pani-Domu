@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_button_top_frag">250dp</dimen>
+    <dimen name="hight_button_top_frag">120dp</dimen>
+    <dimen name="margin_top_topfrag">15dp</dimen>
+    <dimen name="margin_bottom_topfrag">15dp</dimen>
+    <dimen name="button_size_top">40sp</dimen>
+    <dimen name="button_margintop_top">15dp</dimen>
+    <dimen name="button_marginbottom_top">15dp</dimen>
+</resources>

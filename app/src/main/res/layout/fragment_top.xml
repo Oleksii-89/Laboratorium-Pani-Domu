@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/top_fragment_id"
+    tools:context=".fragments.TopFragment"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LABORATORIUM"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold"
+            android:textSize="24sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pani Domu"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold"
+            android:textSize="60sp"/>
+
+<!--        <ImageView-->
+<!--            android:id="@+id/board_top"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:scaleType="centerCrop"-->
+<!--            android:adjustViewBounds="true"-->
+<!--            android:src="@drawable/board_panidomu"-->
+<!--            android:contentDescription="@string/top_fragment_image"/>-->
+
+        <Button
+            android:id="@+id/button_top_dLux"
+            android:text="@string/button_top_d_lux"
+            android:textSize="@dimen/button_size_top"
+            android:textColor="@color/white"
+            android:background="@drawable/button_top"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/width_button_top_frag"
+            android:layout_height="@dimen/hight_button_top_frag"
+            android:layout_marginTop="@dimen/button_margintop_top"
+            android:layout_marginBottom="@dimen/button_marginbottom_top"/>
+
+        <Button
+            android:id="@+id/button_top_sets"
+            android:text="@string/button_top_sets"
+            android:textSize="@dimen/button_size_top"
+            android:textColor="@color/white"
+            android:background="@drawable/button_top"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/width_button_top_frag"
+            android:layout_height="@dimen/hight_button_top_frag"
+            android:layout_marginTop="@dimen/button_margintop_top"
+            android:layout_marginBottom="@dimen/button_marginbottom_top"/>
+
+        <Button
+            android:id="@+id/button_top_washing"
+            android:text="@string/button_top_washing"
+            android:textSize="@dimen/button_size_top"
+            android:textColor="@color/white"
+            android:background="@drawable/button_top"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/width_button_top_frag"
+            android:layout_height="@dimen/hight_button_top_frag"
+            android:layout_marginTop="@dimen/button_margintop_top"
+            android:layout_marginBottom="@dimen/button_marginbottom_top"/>
+
+        <Button
+            android:id="@+id/button_top_cleaning"
+            android:text="@string/button_top_cleaning"
+            android:textSize="@dimen/button_size_top"
+            android:textColor="@color/white"
+            android:background="@drawable/button_top"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/width_button_top_frag"
+            android:layout_height="@dimen/hight_button_top_frag"
+            android:layout_marginTop="@dimen/button_margintop_top"
+            android:layout_marginBottom="@dimen/button_marginbottom_top"/>
+
+        <Button
+            android:id="@+id/button_top_washM"
+            android:text="@string/button_top_washM"
+            android:textSize="@dimen/button_size_top"
+            android:textColor="@color/white"
+            android:background="@drawable/button_top"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/width_button_top_frag"
+            android:layout_height="@dimen/hight_button_top_frag"
+            android:layout_marginTop="@dimen/button_margintop_top"
+            android:layout_marginBottom="@dimen/button_marginbottom_top"/>
+
+
+
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

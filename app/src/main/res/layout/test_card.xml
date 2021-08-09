@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cvTest_card_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTest_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="EBANY TEKST"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"/>
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:id="@+id/iv_test_image"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="#2d2d2d"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
